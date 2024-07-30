@@ -20,4 +20,4 @@ class salg(models.Model):
     hsal=models.DecimalField(max_digits=10,decimal_places=3)
     lsal=models.DecimalField(max_digits=10,decimal_places=2)
 
-
+f
